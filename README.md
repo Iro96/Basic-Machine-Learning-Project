@@ -37,7 +37,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## For use this project you use these command
+## Usage
 
 ### 1. Train the model
 ```bash
