@@ -1,20 +1,20 @@
-# 🧠 General ML Dashboard
+# General ML Dashboard
 
 A reusable and minimal machine learning dashboard built with **Streamlit** that allows users to load a trained model, make predictions on tabular data, and visualize results.
 
 ---
 
-## 📦 Features
+## Features
 
-- 🔌 Load any `scikit-learn`-compatible model (`.pkl`)
-- 📊 Upload and preview CSV data
-- 🤖 Generate predictions instantly
-- 🛠️ Fully configurable with `config.yaml`
-- 📓 Includes Jupyter notebook to train example model
+- Load any `scikit-learn`-compatible model (`.pkl`)
+- Upload and preview CSV data
+- Generate predictions instantly
+- Fully configurable with `config.yaml`
+- Includes Jupyter notebook to train example model
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
