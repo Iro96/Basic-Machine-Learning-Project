@@ -1,5 +1,8 @@
 # General ML Dashboard
 
+[![GitHub license](https://img.shields.io/github/license/Iro96/Basic-Machine-Learning-Project?style=for-the-badge)](https://github.com/Iro96/Basic-Machine-Learning-Project/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Iro96/Basic-Machine-Learning-Project?style=for-the-badge)](https://github.com/Iro96/Basic-Machine-Learning-Project/issues)
+
 A reusable and minimal machine learning dashboard built with **Streamlit** that allows users to load a trained model, make predictions on tabular data, and visualize results.
 
 ---
